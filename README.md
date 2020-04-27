@@ -1,6 +1,6 @@
-# Base Web App
+# Dev By Joe WebApp
 Circle CI Build Status:
-[![CircleCI](https://circleci.com/gh/joe-glasgow/base-web-app/tree/master.svg?style=svg)](https://circleci.com/gh/joe-glasgow/base-web-app/tree/master)
+[![CircleCI](https://circleci.com/gh/joe-glasgow/devbyjoe/tree/master.svg?style=svg)](https://circleci.com/gh/joe-glasgow/base-web-app/tree/master)
 
 ## Features
 
